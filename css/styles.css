@@ -797,7 +797,7 @@ color: #404BBF;
     gap: 72px;
 }
 @media screen and (min-width: 768px) {
-    .footer .container {
+    .footer-inner {
         flex-direction: row;
         flex-wrap: wrap;
         max-width: 584px;
@@ -807,7 +807,7 @@ color: #404BBF;
     }
 }
 @media screen and (min-width: 1158px) {
-    .footer .container {
+    .footer-inner {
         max-width: 1160px;
         flex-direction: row;
         align-items: baseline;
