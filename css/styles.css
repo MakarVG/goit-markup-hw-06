@@ -261,7 +261,7 @@ color: #404BBF;
             display: block;
             margin-bottom: 48px;
         }
-        .contacts-list {
+        .address_list {
             margin-top: 16px;
             font-style: normal;
             display: flex;
@@ -318,7 +318,7 @@ color: #404BBF;
 }
 
 @media screen and (min-width: 1158px) {
-    .contacts-list {
+    .address_list {
         flex-direction: row;
         gap: 40px;
     }
