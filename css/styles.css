@@ -55,7 +55,7 @@ img {
 }
 
 .container {
-    display: block;
+    display: flex;
     margin: 0 auto;
     max-width: 320px;
     padding: 0 16px;
