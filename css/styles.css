@@ -695,7 +695,7 @@ color: #404BBF;
     letter-spacing: 0.02em;
     color: #434455;
 }
-.portfolio-list {
+.portfolio_list {
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
