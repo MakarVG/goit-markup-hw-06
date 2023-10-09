@@ -67,14 +67,14 @@ img {
 
 @media screen and (min-width: 1158px) {
     .container {
-        max-width: 1160px;
+        max-width: 1158px;
     }
 }
-.container .header_container {
+.header_container {
     display: flex;
 }
 @media screen and (min-width: 1158px) {
-    .container .header_container {
+    .header_container {
         justify-content: center;
         align-items: baseline;
         max-width: 1158px;
@@ -84,7 +84,7 @@ img {
 .header_nav{
     display: flex;
     align-items: center;
-    gap: 40px;
+    flex-grow: 1;
     position: relative;
 }
 .header_nav_menu_ul{
